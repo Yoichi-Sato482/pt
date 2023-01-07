@@ -1,0 +1,6 @@
+[submodule "pt.yoichi-sato482.github.io"]
+	path = pt.yoichi-sato482.github.io
+	url = https://github.com/Yoichi-Sato482/pt.yoichi-sato482.github.io.git
+[submodule "themes/hugo.386"]
+	path = themes/hugo.386
+	url = https://gitlab.com/maxlefou/hugo.386
