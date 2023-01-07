@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 落落格站長的女裝小倉庫</title>
-    <link>http://example.org/posts/</link>
+    <link>https://pt-899.pages.dev/posts/</link>
     <description>Recent content in Posts on 落落格站長的女裝小倉庫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <lastBuildDate>Sat, 07 Jan 2023 21:48:06 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 21:48:06 +0800</lastBuildDate><atom:link href="https://pt-899.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>你好，世界</title>
-      <link>http://example.org/posts/helloworld/</link>
+      <link>https://pt-899.pages.dev/posts/helloworld/</link>
       <pubDate>Sat, 07 Jan 2023 21:48:06 +0800</pubDate>
       
-      <guid>http://example.org/posts/helloworld/</guid>
+      <guid>https://pt-899.pages.dev/posts/helloworld/</guid>
       <description>A &amp;ldquo;Hello, World!&amp;rdquo; program is generally a computer program that ignores any input and outputs or displays a message similar to &amp;ldquo;Hello, World!&amp;rdquo;. A small piece of code in most general-purpose programming languages, this program is used to illustrate a language&amp;rsquo;s basic syntax. &amp;ldquo;Hello, World!&amp;rdquo; programs are often the first a student learns to write in a given language,[1] and they can also be used as a sanity check to ensure computer software intended to compile or run source code is correctly installed, and that its operator understands how to use it.</description>
     </item>
     
